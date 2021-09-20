@@ -378,12 +378,27 @@ h1{
 .slidecontainer{
 	line-height: 30px;
 }
-
+.slidecontainer1{
+	line-height: 30px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+}
 
 /*icon contact*/
 .contacticon{
 	width: 100%;
 	text-align: center;
+	font-size: 40px;
+	color: #1985A1;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 0 300px;
+	box-sizing: border-box;
 }
 
 
